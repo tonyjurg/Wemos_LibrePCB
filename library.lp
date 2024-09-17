@@ -1,0 +1,11 @@
+(librepcb_library 20881811-3b8d-47bb-b867-53e98b86230d
+ (name "Wemos")
+ (description "Wemos development board.")
+ (keywords "ESP32, Wemos, Lolin")
+ (author "Tony Jurg")
+ (version "0.1")
+ (created 2024-09-17T14:06:32Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "Wemos")
+)

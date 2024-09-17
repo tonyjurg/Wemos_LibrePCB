@@ -1,0 +1,10 @@
+(librepcb_component_category 64b613ef-a766-4f26-858e-f0a71f2a8a08
+ (name "Wemos Devices")
+ (description "")
+ (keywords "Wemos, Lolin")
+ (author "Tony Jurg")
+ (version "0.1")
+ (created 2024-09-17T14:22:37Z)
+ (deprecated false)
+ (parent e96d0dda-3100-4e68-8c33-e2a5bc80428b)
+)
